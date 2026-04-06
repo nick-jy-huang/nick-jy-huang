@@ -65,6 +65,9 @@
 👋 Hello there I am Nick ! A frontend engineer trying to survive, and a huge Kanahei & Piske fan (office photos above!) 🐰🐥
 </font>
 
+### 📚 iThome Series
+- 🏅 2025 iThome excellent work - [牛郎工程師：30 天練成情緒價值與交付感雙滿分的軟體工程師 系列](https://ithelp.ithome.com.tw/users/20171911/ironman/8225) - This article uses the analogy of a male prostitute entertaining a customer to illustrate the workplace dynamics of engineers: how to entertain, satisfy, manage, and appropriately let go of superiors/customers. The purpose of this article is not to solve problems, but to manage customer feelings and emotions, thus becoming a top performer in the company!
+
 ---
 
 ### ✨ Highlights

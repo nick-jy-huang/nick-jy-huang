@@ -4,13 +4,9 @@
   <img src="./assets/nick.png" alt="Nick" height="200">
 </p>
 
-<p align="center">
-<font color=pink  size=5>
+<div align="center">
 # Mental health and money deserve the most !important.
-</font>
-</p>
-
-<font color=pink >
+</div>
 
 ### 🧑‍💼 Workday Snapshots
 
@@ -65,9 +61,6 @@
 👋 Hello there I am Nick ! A frontend engineer trying to survive, and a huge Kanahei & Piske fan (office photos above!) 🐰🐥
 </font>
 
-### 📚 iThome Series
-- 🏅 2025 iThome excellent work - [牛郎工程師：30 天練成情緒價值與交付感雙滿分的軟體工程師 系列](https://ithelp.ithome.com.tw/users/20171911/ironman/8225) - This article uses the analogy of a male prostitute entertaining a customer to illustrate the workplace dynamics of engineers: how to entertain, satisfy, manage, and appropriately let go of superiors/customers. The purpose of this article is not to solve problems, but to manage customer feelings and emotions, thus becoming a top performer in the company!
-
 ---
 
 ### ✨ Highlights
@@ -75,6 +68,10 @@
 <font color="white">
 Frontend planning and development experience taking service products and content platforms from 0->1 and 1->N across desktop and web.
 </font>
+
+
+### 📚 iThome Series
+- 🏅 2025 iThome excellent work - [牛郎工程師：30 天練成情緒價值與交付感雙滿分的軟體工程師 系列](https://ithelp.ithome.com.tw/users/20171911/ironman/8225) - This article uses the analogy of a male prostitute entertaining a customer to illustrate the workplace dynamics of engineers: how to entertain, satisfy, manage, and appropriately let go of superiors/customers. The purpose of this article is not to solve problems, but to manage customer feelings and emotions, thus becoming a top performer in the company!
 
 ---
 
@@ -87,4 +84,10 @@ Frontend planning and development experience taking service products and content
 <br>- 💰 I love making money, but even more I love making sure collaborators capture value so our goals stay in sync.
 </font>
 
-</font>
+### 🚀 Contribution
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nick-jy-huang/nick-jy-huang/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nick-jy-huang/nick-jy-huang/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nick-jy-huang/nick-jy-huang/output/github-contribution-grid-snake.svg">
+</picture>

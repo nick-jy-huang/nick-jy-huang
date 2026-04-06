@@ -5,7 +5,10 @@
 </p>
 
 <div align="center">
-# Mental health and money deserve the most !important.
+<h3>
+  # Mental health and money deserve the most !important.
+</h3>
+<img src="https://komarev.com/ghpvc/?username=nick-jy-huang&style=for-the-badge&color=ff69b4" alt="Profile views counter" />
 </div>
 
 ### 🧑‍💼 Workday Snapshots
@@ -84,7 +87,13 @@ Frontend planning and development experience taking service products and content
 <br>- 💰 I love making money, but even more I love making sure collaborators capture value so our goals stay in sync.
 </font>
 
+---
+
 ### 🚀 Contribution
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=nick-jy-huang&theme=javascript)
+
+### 🐛 Contribution？
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nick-jy-huang/nick-jy-huang/output/github-contribution-grid-snake-dark.svg">

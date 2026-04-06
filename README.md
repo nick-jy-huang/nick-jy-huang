@@ -1,24 +1,27 @@
-## 👋 Hello there I am Nick !
-
 <p align="center">
-  <img src="./assets/bg0.jpg" alt="上班照" width="45%">
-  <img src="./assets/bg1.jpg" alt="上班照" width="45%">
-  <img src="./assets/bg2.jpg" alt="上班照" width="45%">
-  <img src="./assets/bg3.jpg" alt="上班照" width="45%">
+  <img src="./assets/logo.png" alt="Logo" height="200">
+  <img src="./assets/x.webp" alt="X" height="150" style="margin: 0 32px;">
+  <img src="./assets/nick.png" alt="Nick" height="200">
 </p>
 
----
+```Bash
+# Mental health and money deserve the most !important.
+```
 
-### 🧑‍💻 About Me
+## 🧑‍💼 Workday Snapshots
 
-> <img src="./assets/logo.png" alt="上班照" width="35" />  
-> 一名正在努力生存的前端工程師，非常喜歡 Kanahei&Piske (附上班照~) 🐰🐥
+<p align="center">
+  <img src="./assets/bg0.jpg" alt="上班照" width="40%">
+  <img src="./assets/bg1.jpg" alt="上班照" width="40%">
+  <img src="./assets/bg2.jpg" alt="上班照" width="40%">
+  <img src="./assets/bg3.jpg" alt="上班照" width="40%">
+</p>
 
 ---
 
 ### 🚀 Main Skills
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
@@ -27,4 +30,50 @@
 
 ---
 
-> 💰 喜歡賺錢！🤑
+### 🛠 Tools & Libraries
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pnpm-F6921E?style=for-the-badge&logo=pnpm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Husky-0F172A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Storybook-FF4685?style=for-the-badge&logo=storybook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Styled%20Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"/>
+  <img src="https://img.shields.io/badge/i18n-0A96F0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/WebSocket-0D9488?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/View%20UI%20(iView)-2C3E50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Element%20Plus-409EFF?style=for-the-badge&logo=element&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vuex-34495E?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pinia-F4D35E?style=for-the-badge&logo=pinia&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SWR-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black"/>
+</p>
+
+### 🧑‍💻 About Me
+
+👋 Hello there I am Nick ! A frontend engineer trying to survive, and a huge Kanahei & Piske fan (office photos above!) 🐰🐥
+
+---
+
+### ✨ Highlights
+Frontend planning and development experience taking service products and content platforms from 0->1 and 1->N across desktop and web.
+
+---
+
+### 🤝 How to Work With Me
+
+- I prefer to align on the experience with wireframes or prototypes before diving into modular development and validation.
+- Engagement style is flexible: long-term collaboration, project-based consulting, or cross-border remote gigs all work.
+- Communication cadence leans async with responses within 24 hours; urgent topics can escalate to video calls immediately.
+- 💰 I love making money, but even more I love making sure collaborators capture value so our goals stay in sync.
+

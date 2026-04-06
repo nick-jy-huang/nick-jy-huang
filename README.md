@@ -1,6 +1,6 @@
 <p align="center"">
   <img src="./assets/logo.png" alt="Logo" height="170">
-  <img src="./assets/white_x.svg" alt="X" height="100" style="margin: 0 50px;">
+  <img src="./assets/white_x.svg" alt="X" style="margin: 0 50px;">
   <img src="./assets/nick.png" alt="Nick" height="150">
 </p>
 

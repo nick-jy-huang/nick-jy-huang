@@ -1,7 +1,7 @@
-<p align="center">
-  <img src="./assets/logo.png" alt="Logo" height="200">
-  <img src="./assets/x.webp" alt="X" height="120" style="margin: 0 32px;">
-  <img src="./assets/nick.png" alt="Nick" height="200">
+<p align="center"">
+  <img src="./assets/logo.png" alt="Logo" height="170">
+  <img src="./assets/white_x.svg" alt="X" height="100" style="margin: 0 50px;">
+  <img src="./assets/nick.png" alt="Nick" height="150">
 </p>
 
 <div align="center">

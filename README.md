@@ -100,3 +100,11 @@ Frontend planning and development experience taking service products and content
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nick-jy-huang/nick-jy-huang/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nick-jy-huang/nick-jy-huang/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
+
+### 🕹️ Steam Played
+
+<p align="left">
+  <img src="https://steam-stat.vercel.app/api?profileName=76561198152100100" alt="Steam stats" />
+</p>

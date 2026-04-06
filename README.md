@@ -1,14 +1,18 @@
 <p align="center">
   <img src="./assets/logo.png" alt="Logo" height="200">
-  <img src="./assets/x.webp" alt="X" height="150" style="margin: 0 32px;">
+  <img src="./assets/x.webp" alt="X" height="120" style="margin: 0 32px;">
   <img src="./assets/nick.png" alt="Nick" height="200">
 </p>
 
-```Bash
+<p align="center">
+<font color=pink  size=5>
 # Mental health and money deserve the most !important.
-```
+</font>
+</p>
 
-## 🧑‍💼 Workday Snapshots
+<font color=pink >
+
+### 🧑‍💼 Workday Snapshots
 
 <p align="center">
   <img src="./assets/bg0.jpg" alt="上班照" width="40%">
@@ -16,8 +20,6 @@
   <img src="./assets/bg2.jpg" alt="上班照" width="40%">
   <img src="./assets/bg3.jpg" alt="上班照" width="40%">
 </p>
-
----
 
 ### 🚀 Main Skills
 
@@ -27,8 +29,6 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white"/>
 </p>
-
----
 
 ### 🛠 Tools & Libraries
 
@@ -61,19 +61,27 @@
 
 ### 🧑‍💻 About Me
 
+<font color="white">
 👋 Hello there I am Nick ! A frontend engineer trying to survive, and a huge Kanahei & Piske fan (office photos above!) 🐰🐥
+</font>
 
 ---
 
 ### ✨ Highlights
+
+<font color="white">
 Frontend planning and development experience taking service products and content platforms from 0->1 and 1->N across desktop and web.
+</font>
 
 ---
 
 ### 🤝 How to Work With Me
 
+<font color="white">
 - I prefer to align on the experience with wireframes or prototypes before diving into modular development and validation.
-- Engagement style is flexible: long-term collaboration, project-based consulting, or cross-border remote gigs all work.
-- Communication cadence leans async with responses within 24 hours; urgent topics can escalate to video calls immediately.
-- 💰 I love making money, but even more I love making sure collaborators capture value so our goals stay in sync.
+<br>- Engagement style is flexible: long-term collaboration, project-based consulting, or cross-border remote gigs all work.
+<br>- Communication cadence leans async with responses within 24 hours; urgent topics can escalate to video calls immediately.
+<br>- 💰 I love making money, but even more I love making sure collaborators capture value so our goals stay in sync.
+</font>
 
+</font>

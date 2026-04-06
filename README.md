@@ -11,6 +11,8 @@
 <img src="https://komarev.com/ghpvc/?username=nick-jy-huang&style=for-the-badge&color=ff69b4" alt="Profile views counter" />
 </div>
 
+---
+
 ### 🧑‍💼 Workday Snapshots
 
 <p align="center">
@@ -20,6 +22,8 @@
   <img src="./assets/bg3.jpg" alt="上班照" width="40%">
 </p>
 
+---
+
 ### 🚀 Main Skills
 
 <p align="left">
@@ -28,6 +32,8 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white"/>
 </p>
+
+---
 
 ### 🛠 Tools & Libraries
 
@@ -58,6 +64,8 @@
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black"/>
 </p>
 
+---
+
 ### 🧑‍💻 About Me
 
 <font color="white">
@@ -72,6 +80,7 @@
 Frontend planning and development experience taking service products and content platforms from 0->1 and 1->N across desktop and web.
 </font>
 
+---
 
 ### 📚 iThome Series
 - 🏅 2025 iThome excellent work - [牛郎工程師：30 天練成情緒價值與交付感雙滿分的軟體工程師 系列](https://ithelp.ithome.com.tw/users/20171911/ironman/8225) - This article uses the analogy of a male prostitute entertaining a customer to illustrate the workplace dynamics of engineers: how to entertain, satisfy, manage, and appropriately let go of superiors/customers. The purpose of this article is not to solve problems, but to manage customer feelings and emotions, thus becoming a top performer in the company!
@@ -92,6 +101,8 @@ Frontend planning and development experience taking service products and content
 ### 🚀 Contribution
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=nick-jy-huang&theme=javascript)
+
+---
 
 ### 🐛 Contribution？
 

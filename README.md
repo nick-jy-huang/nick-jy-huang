@@ -5,13 +5,12 @@
 </p>
 
 <div align="center">
-<h3>
-  # Mental health and money are the most !important.
-</h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=2000&color=F76CA7&background=FFFFFF00&width=600&height=45&lines=%23+Mental+health+and+money+are+the+most+!important.;%23+Goodbye+Monkey+Mangager)](https://git.io/typing-svg)
+
 <img src="https://komarev.com/ghpvc/?username=nick-jy-huang&style=for-the-badge&color=ff69b4" alt="Profile views counter" />
 </div>
 
----
 
 ### 🧑‍💼 Workday Snapshots
 

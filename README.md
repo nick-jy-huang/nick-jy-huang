@@ -6,7 +6,7 @@
 
 <div align="center">
 <h3>
-  # Mental health and money deserve the most !important.
+  # Mental health and money are the most !important.
 </h3>
 <img src="https://komarev.com/ghpvc/?username=nick-jy-huang&style=for-the-badge&color=ff69b4" alt="Profile views counter" />
 </div>
